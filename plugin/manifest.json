@@ -1,1 +1,14 @@
-.
+{
+    "name": "test",
+    "description": "rpc",
+    "authors": [
+        {
+            "name": "Sentinel",
+            "id": "1332853828005134376"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "audio"
+    }
+}
